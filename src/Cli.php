@@ -1,7 +1,7 @@
 <?php
 namespace Jett\PhpCli;
 
-use Jett\PhpCli\Cli\Exception\CliException;
+use Jett\PhpCli\Exception\CliException;
 
 final class Cli
 {

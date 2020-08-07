@@ -1,6 +1,6 @@
 <?php
 
-namespace Jett\PhpCli\Cli\Exception;
+namespace Jett\PhpCli\Exception;
 
 class CliException extends \Exception
 {
