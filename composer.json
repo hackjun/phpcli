@@ -1,0 +1,12 @@
+{
+    "name": "jett/phpcli",
+    "description": "cli tools frame",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jett",
+            "email": "hackjun@live.cn"
+        }
+    ],
+    "require": {}
+}
