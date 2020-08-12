@@ -13,5 +13,6 @@
         "psr-4": {
             "Jett\\PhpCli\\": "src"
         }
-    }
+    },
+    "license": "MIT"
 }
